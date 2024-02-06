@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+body {
+  font-family: "Inter", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: hsl(0, 0%, 8%);
+  color: hsl(0, 0%, 100%);
+  font-size: 14px;
+}
+
+main {
+  width: 80%;
+  max-width: 375px;
+  text-align: center;
+  background-color: hsl(0, 0%, 12%);
+  padding: 2em 1em 1em 1em;
+  border-radius: 10px;
+}
+
+main img {
+  border-radius: 50%;
+  max-width: 6em;
+}
+
+h1 {
+  font-size: 1.5em;
+  font-weight: 600;
+  margin-bottom: 0;
+}
+h2 {
+  color: hsl(30, 100%, 50%);
+  font-size: 1em;
+  margin-top: 0;
+  font-weight: 600;
+}
+
+p {
+  margin: 2em;
+}
+
+ul {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+ul a {
+  display: block;
+  background-color: hsl(0, 0%, 20%);
+  color: hsl(0, 0%, 100%);
+  text-decoration: none;
+  font-weight: 700;
+  margin: 1em;
+  padding: 1em;
+  border-radius: 10px;
+  transition: 0.2s;
+}
+
+ul a:hover {
+  background-color: hsl(0, 0%, 8%);
+  color: hsl(30, 100%, 50%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 5em;
+}
+.attribution a {
+  color: hsl(30, 100%, 50%);
+  text-decoration: none;
+  font-weight: 700;
+}
