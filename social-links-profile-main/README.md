@@ -23,13 +23,11 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-
-![](./assets/images/Screenshot%202024-02-06%20at%2014-03-56%20Autumn%20Graves.png)
 ![](./assets/images/Screenshot%202024-02-06%20at%2014-04-20%20Autumn%20Graves.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-BgeHytshMT](https://www.frontendmentor.io/solutions/social-links-profile-BgeHytshMT)
 - Live Site URL: [autgraves.netlify.app](https://autgraves.netlify.app)
 
 ## My process
